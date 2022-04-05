@@ -1,6 +1,5 @@
 var arrayAnimali = ['🐱', '🦉', '🐾', '🦄', '🦋', '🐛', '🐝', '🐬', '🐱', '🦉', '🐾', '🦄', '🦋', '🐛', '🐝', '🐬'];
 
-console.log('ciao');
 let arrayComparison = [];
 
 document.body.onload = startGame();
